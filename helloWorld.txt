@@ -5,3 +5,8 @@ git clone "some_other_repo"
 git add *
 git add "file_name"
 ////
+git commit - m "Description"
+git push -u origin master
+git fetch --all
+/////
+
