@@ -1,0 +1,7 @@
+** This file contains some basic commands for GIT **
+git init : initialize repo {first time creating repository}
+git clone "some_other_repo"
+// create one file and add it via add command to VCS //
+git add *
+git add "file_name"
+////
