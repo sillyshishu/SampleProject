@@ -9,4 +9,9 @@ git commit - m "Description"
 git push -u origin master
 git fetch --all
 /////
-
+undo command for file:
+git checkout filename
+/////
+git checkout to new branch
+or before git pull make sure there are no modified fiels.
+////
