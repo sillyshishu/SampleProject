@@ -15,3 +15,8 @@ git checkout filename
 git checkout to new branch
 or before git pull make sure there are no modified fiels.
 ////
+//////
+'''modified by shashank1""
+git pull origin branch name
+//////////
+
